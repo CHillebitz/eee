@@ -43,6 +43,6 @@ Running It
 
 Just run it manually:
 
-python3 main_combined.py
+python3 crawler.py
 
 Or add it to your crontab.
