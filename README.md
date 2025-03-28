@@ -35,7 +35,7 @@ MOODLE_PASSWORD=your_ethz_password
 CODE_EXPERT_USERNAME=your_switch_edu_id
 CODE_EXPERT_PASSWORD=your_password
 
-> Yes, your passwords are in plain text. No, I don’t judge. Yes, use a dedicated bot account.
+> Yes, your passwords are in plain text. No, I don’t judge.
 
 
 
